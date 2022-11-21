@@ -1,1 +1,1 @@
-# TestingAplicaciones-Wordle-TPO
+# Wordle-TPO Ballestrero, Rimarez, Martinez Blanco, Gomez Lopez
