@@ -55,5 +55,5 @@ class TestTestcreateaccount():
     self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(13) > input").click()
     self.driver.close()
     user_name = self.driver.find_element(By.CLASS_NAME, "dropbtn").text
-    assert "Sample" in user_name
+    assert "LAURA" in user_name
   
